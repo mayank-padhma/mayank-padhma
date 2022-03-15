@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mayank-padhma
-- 👀 I’m interested in android and web development
-- 🌱 I’m currently learning Microsoft Azure
+- 👀 I’m interested in Android Application Development.
+- 🌱 I’m currently learning JAVA frameworks like Spring.
 - 💞️ I’m looking to collaborate on Android Development Projects and other software development projects.
-- 📫 How to reach me 232001mp@gmail.com
+- 📫 How to reach me mayankpadhma23@gmail.com
 
 <!---
 mayank-padhma/mayank-padhma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
