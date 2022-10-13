@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayank-padhma
 - 👀 I’m interested in Android Application Development.
-- 🌱 I’m currently learning JAVA frameworks like Spring.
+- 🌱 KOTLIN | JAVA
 - 💞️ I’m looking to collaborate on Android Development Projects and other software development projects.
 - 📫 How to reach me mayankpadhma23@gmail.com
 
